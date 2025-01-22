@@ -122,9 +122,9 @@ Create a `.env` file in the `backend` folder and include the following variables
 ```plaintext
 API_KEY=your_api_key
 API_SECRET=your_api_secret
-REACT_APP_PROUCTS_API="http://localhost:8082/api/products"
-REACT_APP_IMAGES_API="http://localhost:8082/api/"
-REACT_APP_USER_API="http://localhost:8082/api/user"
+REACT_APP_PROUCTS_API="your_product_url"
+REACT_APP_IMAGES_API="your_image_url"
+REACT_APP_USER_API="your_user_url"
 REACT_APP_API_KEY="secret-key"
 REACT_APP_ENV="development"
 ```
