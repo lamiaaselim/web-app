@@ -1,0 +1,8 @@
+.offcanvas {
+    width: 250px;
+  }
+  
+  .offcanvas .list-group-item {
+    border: none;
+  }
+  
